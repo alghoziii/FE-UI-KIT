@@ -1,14 +1,16 @@
-# zullkit-frontend
+## zullkit-frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+Repositories Frontend ini digunakan untuk membuat website jualan UI Kit dengan sistem Subscription
 
-## Recommended IDE Setup
+## Teknologi  🚀
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+- **Bahasa Coding**: Javascript (Mantul!)
+- **Frontend**: Vue.js
+- npm**: Node.Js
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Berikut Link figma  ❄️
+https://www.figma.com/design/YOND33tn85CdTmrN0Pt6HR/Zullkit?node-id=0-1&p=f
+  
 
 ## Project Setup
 
