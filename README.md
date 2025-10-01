@@ -1,4 +1,4 @@
-## zullkit-frontend
+## NEXAUI frontend
 
 Repositories Frontend ini digunakan untuk membuat website jualan UI Kit dengan sistem Subscription
 
